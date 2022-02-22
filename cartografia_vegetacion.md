@@ -16,7 +16,7 @@ Esta sesión teórico-práctica tiene los siguientes objetivos:
 
 ## Contenidos
 
-Para guiar la sesión se usa un mapa mental hecho con [xmind](https://www.xmind.net/) que se puede descargar [aquí](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/2020-2021/presentacion/mapas_vegetacion_REDIAM.xmind). También se puede ver de manera dinámica en [esta](https://aprendiendo-cosas.github.io/vege_rediam_ecoinf_ugr/presentacion/mapas_vegetacion_rediam.html) página. 
+Para guiar la sesión se usa un mapa mental hecho con [xmind](https://www.xmind.net/) que se puede descargar [aquí](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/2020-2021/presentacion/mapas_vegetacion_REDIAM.xmind). También se puede ver de manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/T_vege_rediam_ecoinf_ugr/2020-2021/presentacion/mapas_vegetacion_rediam.html) página. 
 
 
 
