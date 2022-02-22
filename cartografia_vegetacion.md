@@ -16,7 +16,7 @@ Esta sesión teórico-práctica tiene los siguientes objetivos:
 
 ## Contenidos
 
-Para guiar la sesión se usa un mapa mental hecho con [xmind](https://www.xmind.net/) que se puede descargar [aquí](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/main/presentacion/mapas_vegetacion_REDIAM.xmind). También se puede ver de manera dinámica en [esta](https://aprendiendo-cosas.github.io/vege_rediam_ecoinf_ugr/presentacion/mapas_vegetacion_rediam.html) página. 
+Para guiar la sesión se usa un mapa mental hecho con [xmind](https://www.xmind.net/) que se puede descargar [aquí](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/2020-2021/presentacion/mapas_vegetacion_REDIAM.xmind). También se puede ver de manera dinámica en [esta](https://aprendiendo-cosas.github.io/vege_rediam_ecoinf_ugr/presentacion/mapas_vegetacion_rediam.html) página. 
 
 
 
@@ -29,9 +29,9 @@ Además, abajo puedes ver la reproducción de la sesión impartida.
 ## Material para descargar
 
 La información ambiental descrita en esta sesión-seminario se puede descargar en los siguientes enlaces, que contienen porciones de ejemplo de los productos analizados.
-+ [Mapa de usos y coberturas vegetales del suelo.](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/main/geoinfo/mucva25.zip) Contiene un shapefile de ejemplo con el mencionado mapa.
++ [Mapa de usos y coberturas vegetales del suelo.](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/2020-2021/geoinfo/mucva25.zip) Contiene un shapefile de ejemplo con el mencionado mapa.
 
-+ [Vegetación a escala de detalle (1:10.000) y base de datos de inventarios fitosociológicos de Andalucía (porción)](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/main/geoinfo/vege10_total.zip). Este archivo comprimido contiene la siguiente información:
++ [Vegetación a escala de detalle (1:10.000) y base de datos de inventarios fitosociológicos de Andalucía (porción)](https://github.com/aprendiendo-cosas/vege_rediam_ecoinf_ugr/raw/2020-2021/geoinfo/vege10_total.zip). Este archivo comprimido contiene la siguiente información:
 
   + *\carto*: carpeta con cartografía y descripción de la misma.
     + *\Documentos*: Incluye una serie de documentos que describen la estructura del mapa de vegetación a escala de detalle. También describen cómo se generó esta información. El mapa mental que guió esta sesión está basado en estos documentos.
